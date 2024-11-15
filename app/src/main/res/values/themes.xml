@@ -1,0 +1,17 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+    <!-- Main Application Theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your main theme here -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_color</item>
+        <item name="colorAccent">@color/secondary_color</item>
+    </style>
+
+    <!-- Splash Theme -->
+    <style name="Theme.App.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_color</item>
+    </style>
+
+</resources>
